@@ -13,7 +13,7 @@ enum custom_layers {
 //layer control
 #define SPCNAV  LT(1, KC_SPC)   // Space when tapped, Nav layer when held
 #define BSMOUSE LT(2, KC_BSPC)  // Backspace when tapped, Mouse layer when held
-#define DELMED  LT(3, KC_BSPC)  // Delete when tapped, Media layer when held
+#define DELMED  LT(3, KC_DEL)  // Delete when tapped, Media layer when held
 #define ENTNUM  LT(4, KC_ENT)   // Enter when tapped, Num layer when held
 #define TABSYM  LT(5, KC_TAB)   // Tab when tapped, Symbol layer when held
 #define ESCFN  LT(6, KC_ESC)   // Escape when tapped, Fn layer when held
